@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on the specifications for the [Panda E-commerce Platform](https://pandainfo.github.io/community/).
 - ✊🏽 I'm still 💜ing revolution – fighting for a better world for robots, animals, and humans…
 - 🌱 I’m currently learning [Laravel](https://github.com/laravel), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), and [Sage](https://github.com/roots/sage).
+- 📅 My GitHub résmumé at https://resume.github.io/?redtux definitely needs some improvement. 😄
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
