@@ -1,6 +1,6 @@
 ![redtux](https://socialify.git.ci/redtux/redtux/image?description=1&descriptionEditable=%F0%9F%92%9E%20free%20software%20ninjas%2C%20unite%20%26%20fight%20%E2%9C%8A%F0%9F%8F%BD%0A&font=Bitter&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1064565&pattern=Brick%20Wall&theme=Light)
 
-#### 👋 Hi, welcome to the GitHub profile of Pablo Hörtner aka [redtux](https://redtux.github.io/)
+### 👋 Hi, welcome to the GitHub profile of Pablo Hörtner aka [redtux](https://redtux.github.io/)
 - 🚀 I'm co-founder of
   - [📘 Rosdolsky Circle Vienna in memoriam Emmy & Roman Rosdolsky](https://rosdolsky.org/)
   - [📖 Librería Utopía ★ radical bookstore vienna](https://radicalbookstore.com/)
