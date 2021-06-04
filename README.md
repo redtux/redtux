@@ -11,6 +11,8 @@
 - 🌱 I’m currently learning [Laravel](https://github.com/laravel), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), and [Sage](https://github.com/roots/sage).
 - 📅 My [GitHub résumé](https://resume.github.io/?redtux) definitely needs some improvement. 😄
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redtux&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)
+
 <!---
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
